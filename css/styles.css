@@ -1,0 +1,29 @@
+body {
+  background-color: #B6E1E0;
+}
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 2.5%;
+}
+
+h3 {
+  color: #2B4353;
+  font-family: monospace;
+  font-size: 20px;
+
+}
+
+.cvName {
+  color: #2B4353;
+  font-family: monospace;
+  font-size: 40px;
+}
+
+.content-text {
+  font-family: monospace;
+  font-size: 15px;
+  font-weight: bold;
+}
